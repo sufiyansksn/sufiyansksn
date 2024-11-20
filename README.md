@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @sufiyansksn
-- 👀 I’m interested in Programming and video editing...
-- 🌱 I’m currently learning AI...
-- 💞️ I’m looking to collaborate on AI Project 
-- 📫 How to reach me ... 
-- 😄 Pronouns: ... SUFIYAN
-- ⚡ Fun fact: ... 
-
+👋 Hi, I’m Sufiyan
+👀 I’m passionate about programming and video editing.
+🌱 Currently, I’m deepening my knowledge in Artificial Intelligence (AI) and exploring its applications.
+💞️ I’m open to collaborating on AI and software development projects.
+⚡ Fun fact: I enjoy combining creativity and technology to solve real-world problems.
 <!---
 sufiyansksn/sufiyansksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
