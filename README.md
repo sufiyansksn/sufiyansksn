@@ -15,7 +15,8 @@ I'm a passionate software developer focused on building efficient solutions, exp
 - Problem Solving  
 
 ### 📫 Let's Connect 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/shaik-sufiyan-8a2178214/])
+- 💼 [LinkedIn]
+https://www.linkedin.com/in/shaik-sufiyan-8a2178214/
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
