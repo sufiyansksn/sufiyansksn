@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sufiyan
 
-I'm a passionate software developer focused on building efficient solutions, exploring new technologies, and solving real-world problems.
+Aspiring software developer passionate about building projects and learning new technologies.
 
 ### 🚀 What I Do
 - 💻 Programming in **Python**, **JavaScript**, and modern web technologies  
