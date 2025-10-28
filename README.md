@@ -3,13 +3,13 @@ Aspiring Software Developer passionate about building impactful projects, explor
 
 🚀 What I Do
 - Programming with Python, JavaScript, React.js, HTML, CSS, and SQL
-- Strengthening problem-solving through Data Structures & Algorithms
+- problem-solving through DSA
 - Developing modern web applications with focus on performance & user experience
 - Continuously learning and experimenting with emerging technologies
 
 📌 Interests
 - Software Development
-- Full-Stack Web Development
+- Web Development
 - Open Source Contributions
 - Problem Solving
   
