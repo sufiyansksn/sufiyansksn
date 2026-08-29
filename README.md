@@ -14,7 +14,6 @@
 - 💼 Backend/full-stack development experience, including an internship at **Klee Technologies Pvt. Ltd.**
 - 🛠️ I build production-style projects end-to-end — REST APIs, database design, auth, and deployment
 - 📌 Currently exploring real-time systems (WebSockets, Django Channels, Redis) and sharpening DSA
-- 🌱 Long-term goal: pursue an MS in CS/AI
 - ⚡ Actively looking for **Software Engineer / Full-Stack Developer** roles
 
 ---
